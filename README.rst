@@ -8,6 +8,13 @@ Features
 
 - Works with the latest jQuery library version
 - Displays instant search results as you type
+- User Frendly
+- It make web page faster
+- Independent of server technology
+- Increase the Performance of web page
+- Support for Live data binding
+- Support for the Data View control
+- Support for Client-side template rendering
 
 
 Installation Requirements
